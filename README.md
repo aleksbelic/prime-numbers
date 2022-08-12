@@ -1,2 +1,3 @@
-# prime-numbers
+# Prime numbers
+
 List of prime numbers.
